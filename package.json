@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Xport Data",
   "scripts": {
-    "start": "node node_modules/http-server/bin/http-server -p process.env.PORT",
+    "start": "node node_modules/http-server/bin/http-server -p 8000",
     "lint": "semistandard"
   },
   "author": "xpandit",
